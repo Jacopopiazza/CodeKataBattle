@@ -1,6 +1,8 @@
 # CodeKataBattle
 A.Y. 2023-2024 Software Engineering 2 Project
 
+**Note: Please be aware that the application is still in the prototype stage, and some features may be missing while bugs may be present.**
+
 ## Project Overview
 CKB is a platform where educators create code kata battles for students to participate in. These battles are programming exercises designed to enhance coding skills through practice and collaboration. Below are some key features of the platform:
 
@@ -35,6 +37,9 @@ The project aims to simulate the entire process of developing a complex applicat
 
 **Deployment with Docker:**
 During the ATD phase, the project was deployed using Docker containers. The necessary Dockerfiles are present in the source folders for easy deployment and reproducibility.
+
+**More Information:** Additional details regarding backend development and architecture can be found in the Implementation Design Document (ITD) located in the Delivery folder.
+
 
 ## Grade 
 30/30 with Honours
