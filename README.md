@@ -42,7 +42,7 @@ During the ATD phase, the project was deployed using Docker containers. The nece
 
 
 ## Grade 
-30/30 with Honours
+30/30 with honors
 
 ## Team
 * [Jacopo Piazzalunga](https://github.com/Jacopopiazza)
