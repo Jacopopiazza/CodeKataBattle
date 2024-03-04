@@ -16,13 +16,13 @@ CKB is a platform where educators create code kata battles for students to parti
 
 The project aims to simulate the entire process of developing a complex application. It consisted of four phases:
 
-* RASD (Requirements Analysis and Specification Document): This document should outline the detailed requirements and specifications of the application. It should include information about the intended users, system functionalities, constraints, and any other relevant details necessary for understanding the project scope.
+* RASD (Requirements Analysis and Specification Document): This document outlines the detailed requirements and specifications of the application. It includes information about the intended users, system functionalities, constraints, and any other relevant details necessary for understanding the project scope.
 
-* DD (Design Document): In this phase, the design of the application architecture, user interface, and database schema should be detailed. It should provide a blueprint for how the requirements outlined in the RASD will be implemented.
+* DD (Design Document): In this phase, the design of the application architecture, user interface, and database schema are detailed. It provides a blueprint for how the requirements outlined in the RASD will be implemented.
 
-* ITD (Implementation and Testing Document): Here, the actual implementation of the application takes place based on the designs from the DD phase. Additionally, thorough testing procedures should be outlined to ensure the application functions as intended and meets the specified requirements.
+* ITD (Implementation and Testing Document): Here, the actual implementation of the application takes place based on the designs from the DD phase. Additionally, thorough testing procedures are outlined to ensure the application functions as intended and meets the specified requirements.
 
-* ATD (Acceptance Testing Document): This document should detail the acceptance criteria and procedures for verifying that the completed application meets the expectations of the stakeholders. It should include steps for conducting user acceptance testing and any necessary adjustments or fixes based on the test results.
+* ATD (Acceptance Testing Document): This document details the acceptance criteria and procedures for verifying that the completed application meets the expectations of the stakeholders. It includes steps for conducting user acceptance testing and any necessary adjustments or fixes based on the test results.
 
 ## Implementation 
 
