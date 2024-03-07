@@ -12,6 +12,33 @@ CKB is a platform where educators create code kata battles for students to parti
 - **Scoring and Rankings**: Teams receive scores based on their performance in battles, contributing to their overall tournament rankings.
 - **Gamification**: CKB includes gamification elements such as badges, awarded based on students' achievements and participation.
 
+## Requirements
+
+### Backend
+
+* Java 21
+* Maven 4
+
+The backend was developed using IntelliJ IDEA, but any IDE supporting maven should be fine.
+
+All the dependencies can be installed using the pom.xml file; cd into the project folder (ITD/Backend/CodeKataBattle) and run:
+
+```
+mvn install
+```
+
+### Frontend
+
+* NodeJS
+* React
+
+All the dependencies can be installed using npm; cd into the project folder (ITD/Frontend/codekatabattle-app) and run:
+
+```
+npm install
+```
+  
+
 ## Goal
 
 The project aims to simulate the entire process of developing a complex application. It consisted of four phases:
@@ -36,7 +63,7 @@ The project aims to simulate the entire process of developing a complex applicat
 - **React.js:** The frontend is currently under development using React.js. React's flexibility, scalability, and extensive ecosystem make it an ideal choice for building interactive user interfaces. We utilized common React libraries such as React Router for routing and React-Bootstrap, enhancing the development process and user experience.
 
 **Deployment with Docker:**
-During the ATD phase, the project was deployed using Docker containers. The necessary Dockerfiles are present in the source folders for easy deployment and reproducibility.
+During the ATD phase, the project was deployed using Docker containers. The necessary Dockerfiles are present in the source folders for easy deployment and reproducibility. An env file containing the token shown in our example should be passed to the backend container.
 
 **More Information:** Additional details regarding backend development and architecture can be found in the Implementation Design Document (ITD) located in the Delivery folder.
 
